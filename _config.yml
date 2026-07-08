@@ -1,14 +1,33 @@
 title: Ziyang Zhou
 description: Personal Academic Homepage
-theme: minima
 
-author:
-  name: Ziyang ZHOU
-  email: 24zyzhou1@stu.edu.cn
+remote_theme: academicpages/academicpages.github.io
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 markdown: kramdown
 kramdown:
   input: GFM
 
-plugins:
-  - jekyll-feed
+url: "https://Deomn404.github.io"
+baseurl: ""
+
+author:
+  name: "Ziyang ZHOU"
+  avatar: ""
+  bio: "Master of Engineering in Artificial Intelligence"
+  location: "China"
+  email: "24zyzhou1@stu.edu.cn"
+  github: ""
+  googlescholar: ""
+  linkedin: ""
+
+include:
+  - _pages
+
+exclude:
+  - README.md
