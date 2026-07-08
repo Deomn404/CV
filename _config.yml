@@ -1,0 +1,14 @@
+title: Ziyang Zhou
+description: Personal Academic Homepage
+theme: minima
+
+author:
+  name: Ziyang ZHOU
+  email: 24zyzhou1@stu.edu.cn
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
