@@ -42,7 +42,7 @@ My recent work focuses on developing deep learning methods for visual perception
 <div class="snapshot-grid">
 
 <div class="snapshot-card">
-  <div class="snapshot-number">5</div>
+  <div class="snapshot-number">4</div>
   <div class="snapshot-title">Publications</div>
   <div class="snapshot-desc">Including journal, conference, oral presentation, and book chapter works.</div>
 </div>
@@ -138,16 +138,6 @@ Cai, Z., Zhang, D., **Zhou, Z.**, et al.
 
 <div class="pub-card" markdown="1">
 
-**High-Fidelity Retinal Image Synthesis via Dual-Conditioned Diffusion for Improved Vessel and Optic Disc Segmentation**  
-Cai, Z., Zhang, D., **Zhou, Z.**, et al.  
-Submitted to *Computer Methods and Programs in Biomedicine*, JCR Q2.
-
-<span class="tag muted">Third Author</span>
-<span class="tag">Medical Image Analysis</span>
-<span class="tag">Diffusion Model</span>
-<span class="tag">Retinal Image Synthesis</span>
-
-</div>
 
 ### Patents
 
