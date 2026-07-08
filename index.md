@@ -23,7 +23,7 @@ Master of Engineering in Artificial Intelligence · Shantou University
 <div class="contact-line">
   <span>📍 Sichuan, China</span>
   <span>📧 <a href="mailto:24zyzhou1@stu.edu.cn">24zyzhou1@stu.edu.cn</a></span>
-  <span>🌐 <a href="https://github.com/你的用户名">GitHub</a></span>
+  <span>🌐 <a href="https://github.com/Deomn404">GitHub</a></span>
   <span>📄 <a href="https://scholar.google.com/你的链接">Google Scholar</a></span>
 </div>
 
