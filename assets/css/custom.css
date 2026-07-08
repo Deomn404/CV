@@ -1,0 +1,340 @@
+/* ===============================
+   Base
+   =============================== */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+    Arial, "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: #1f2937;
+  line-height: 1.72;
+}
+
+.wrapper {
+  max-width: 980px;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin-top: 2.6rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #e5e7eb;
+  color: #111827;
+}
+
+h3 {
+  color: #1f2937;
+}
+
+/* ===============================
+   Hero
+   =============================== */
+
+.hero {
+  margin: 1.2rem 0 2rem;
+  padding: 2.4rem 2.2rem;
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at top left, rgba(59, 130, 246, 0.16), transparent 32%),
+    linear-gradient(135deg, #f8fafc 0%, #eef4ff 52%, #f9fafb 100%);
+  border: 1px solid #dbeafe;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.08);
+}
+
+.hero h1 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 2.45rem;
+  line-height: 1.15;
+  color: #0f172a;
+}
+
+.subtitle {
+  margin-bottom: 1.1rem;
+  font-size: 1.08rem;
+  color: #475569;
+}
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0 1.2rem;
+}
+
+.research-tags span {
+  padding: 0.36rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid #dbeafe;
+  color: #334155;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.contact-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.contact-line span {
+  padding: 0.36rem 0.75rem;
+  border-radius: 999px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 0.92rem;
+}
+
+/* ===============================
+   Snapshot
+   =============================== */
+
+.snapshot-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.3rem 0 1.8rem;
+}
+
+.snapshot-card {
+  padding: 1.25rem 1.35rem;
+  border-radius: 18px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.snapshot-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.08);
+}
+
+.snapshot-number {
+  margin-bottom: 0.2rem;
+  color: #2563eb;
+  font-size: 1.9rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.snapshot-title {
+  color: #111827;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.snapshot-desc {
+  margin-top: 0.35rem;
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
+/* ===============================
+   Interests / Courses
+   =============================== */
+
+.interest-list,
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.9rem 0 1.2rem;
+}
+
+.interest-list span,
+.course-list span {
+  padding: 0.36rem 0.72rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 0.9rem;
+}
+
+/* ===============================
+   Publication Cards
+   =============================== */
+
+.pub-card {
+  margin: 1rem 0;
+  padding: 1.15rem 1.25rem;
+  border-radius: 16px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.045);
+}
+
+.pub-card p {
+  margin-bottom: 0.55rem;
+}
+
+.tag {
+  display: inline-block;
+  margin: 0.2rem 0.15rem 0.1rem 0;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  color: #475569;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.tag.primary {
+  background: #dbeafe;
+  color: #1d4ed8;
+}
+
+.tag.secondary {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.tag.muted {
+  background: #f3f4f6;
+  color: #4b5563;
+}
+
+/* ===============================
+   Experience Cards
+   =============================== */
+
+.exp-card {
+  margin: 1.1rem 0 1.3rem;
+  padding: 1.2rem 1.35rem;
+  border-radius: 18px;
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #2563eb;
+}
+
+.exp-card h3 {
+  margin-top: 0;
+}
+
+.exp-card ul {
+  margin-bottom: 0;
+}
+
+/* ===============================
+   Tables
+   =============================== */
+
+table {
+  width: 100%;
+  margin: 1rem 0 1.4rem;
+  border-collapse: collapse;
+  border-radius: 14px;
+  overflow: hidden;
+  font-size: 0.94rem;
+}
+
+th {
+  background: #f1f5f9;
+  color: #334155;
+  font-weight: 700;
+}
+
+th,
+td {
+  padding: 0.72rem 0.85rem;
+  border: 1px solid #e5e7eb;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+/* ===============================
+   Skills
+   =============================== */
+
+.skills-section {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.skill-block {
+  padding: 1.1rem 1.2rem;
+  border-radius: 18px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.045);
+}
+
+.skill-block h4 {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+  color: #111827;
+}
+
+.skill-block span {
+  display: inline-block;
+  margin: 0.18rem 0.12rem;
+  padding: 0.28rem 0.62rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  font-size: 0.88rem;
+}
+
+/* ===============================
+   Footer
+   =============================== */
+
+.footer-note {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e7eb;
+  color: #64748b;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+/* ===============================
+   Mobile
+   =============================== */
+
+@media (max-width: 760px) {
+  .hero {
+    padding: 1.6rem 1.25rem;
+    border-radius: 18px;
+  }
+
+  .hero h1 {
+    font-size: 1.85rem;
+  }
+
+  .snapshot-grid,
+  .skills-section {
+    grid-template-columns: 1fr;
+  }
+
+  table {
+    font-size: 0.85rem;
+  }
+
+  th,
+  td {
+    padding: 0.55rem;
+  }
+}
