@@ -6,7 +6,7 @@ layout: home
 
 <div class="hero" markdown="1">
 
-# Ziyang ZHOU 周子扬
+# Ziyang ZHOU
 
 <div class="subtitle">
 Master of Engineering in Artificial Intelligence · Shantou University
