@@ -14,7 +14,7 @@ layout: home
 
 ### Publications
 
-1. **Zhou, Z.**, Huang, G., Cai, Z., et al. *"Shape-Aware Unsupervised Optical Flow via Multi-Scale Recurrent Refinement and Texture-Aware Loss."* **Pattern Recognition** (JCR Q1, IF: 8.0+). **First author.** [07/2026]
+1. **Zhou, Z.**, Huang, G., Cai, Z., et al. *"Shape-Aware Unsupervised Optical Flow via Multi-Scale Recurrent Refinement and Texture-Aware Loss."* **Pattern Recognition** (JCR Q1, IF: 9.1). **First author.** [07/2026]
 
 2. **Zhou, Z.**, Huang, G., Cai, Z., et al. *"Dual-Space Joint Representation Learning for Robust Multimodal Sentiment Analysis with Incomplete Modalities."* **IEEE SMC 2026** (CORE B). **First author.** [06/2026]
 
