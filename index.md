@@ -36,12 +36,9 @@ layout: home
 |------|-------|-------|
 | 12/2025 | National Second Prize — "Huawei Cup" Postgraduate Mathematical Modelling Competition | 🥈 National |
 | 06/2025 | National Second Prize — "Teddy Cup" National Data Mining Challenge (Graduate Group) | 🥈 National |
-| 04/2023 | University Second Prize — Transportation Science & Technology Competition, SAU | 🥈 University |
 | 09/2022 | Honourable Mention — "ShuWei Cup" International Mathematical Modelling Competition | 🏅 International |
 | 08/2022 | Silver Award — "Challenge Cup" Liaoning Provincial Business Plan Competition | 🥈 Provincial |
-| 2022 | Bronze Prize — "Internet+" Innovation & Entrepreneurship Competition, Liaoning Province | 🥉 Provincial |
 | 05/2022 | National Second Prize — "ShuWei Cup" Mathematical Modelling Competition (Undergraduate) | 🥈 National |
-| 07/2021 | National Third Prize — "ShuWei Cup" Mathematical Modelling Competition (Undergraduate) | 🥉 National |
 
 ---
 
