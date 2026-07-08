@@ -110,6 +110,7 @@ My recent work focuses on developing deep learning methods for visual perception
 <span class="tag primary">First Author</span>
 <span class="tag">Multimodal Learning</span>
 <span class="tag">Incomplete Modalities</span>
+<span class="tag">Multimodal Sentiment Analysis</span>
 
 </div>
 
@@ -121,6 +122,7 @@ Meng, C., **Zhou, Z.**, et al.
 
 <span class="tag secondary">Second Author</span>
 <span class="tag">Oral Presentation</span>
+<span class="tag">Multimodal Learning</span>
 <span class="tag">Multimodal Sentiment Analysis</span>
 
 </div>
