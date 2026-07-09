@@ -119,6 +119,7 @@ My recent work focuses on developing deep learning methods for visual perception
 **Spatiotemporal Decouple Before Act: Disentanglement Representation Learning for Multimodal Sentiment Analysis**  
 Meng, C., **Zhou, Z.**, et al.  
 *ICASSP 2026*, [[arXiv]](https://arxiv.org/abs/2601.13659), Oral.
+
 <span class="tag secondary">Second Author</span>
 <span class="tag">Oral Presentation</span>
 <span class="tag">Multimodal Learning</span>
