@@ -72,7 +72,7 @@ My recent work focuses on developing deep learning methods for visual perception
 ## Research Interests
 
 <div class="interest-list">
-  <span>Unsupervised Optical Flow</span>
+  <span>Optical Flow</span>
   <span>Computer Vision</span>
   <span>Medical Image Analysis</span>
   <span>Representation Learning</span>
