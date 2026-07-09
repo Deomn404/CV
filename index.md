@@ -75,11 +75,9 @@ My recent work focuses on developing deep learning methods for visual perception
   <span>Unsupervised Optical Flow</span>
   <span>Computer Vision</span>
   <span>Medical Image Analysis</span>
-  <span>Multimodal Representation Learning</span>
-  <span>Incomplete Modality Learning</span>
+  <span>Representation Learning</span>
   <span>Physics-Model-Driven Deep Learning</span>
   <span>LLM-assisted Medical AI</span>
-  <span>Digital Human Systems</span>
 </div>
 
 ---
@@ -92,9 +90,10 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Shape-Aware Unsupervised Optical Flow via Multi-Scale Recurrent Refinement and Texture-Aware Loss**  
 **Zhou, Z.**, Huang, G., Cai, Z., et al.  
-*Pattern Recognition*, JCR Q1, IF: 9.1. [07/2026]
+*Pattern Recognition*
 
 <span class="tag primary">First Author</span>
+<span class="tag">IF:9.1</span>
 <span class="tag">Computer Vision</span>
 <span class="tag">Optical Flow</span>
 <span class="tag">Unsupervised Learning</span>
@@ -105,9 +104,10 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Dual-Space Joint Representation Learning for Robust Multimodal Sentiment Analysis with Incomplete Modalities**  
 **Zhou, Z.**, Huang, G., Cai, Z., et al.  
-*IEEE International Conference on Systems, Man, and Cybernetics*, SMC 2026, CORE B. [06/2026]
+*IEEE International Conference on Systems, Man, and Cybernetics 2026*
 
 <span class="tag primary">First Author</span>
+<span class="tag">Core B</span>
 <span class="tag">Multimodal Learning</span>
 <span class="tag">Incomplete Modalities</span>
 <span class="tag">Multimodal Sentiment Analysis</span>
@@ -118,8 +118,7 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Spatiotemporal Decouple Before Act: Disentanglement Representation Learning for Multimodal Sentiment Analysis**  
 Meng, C., **Zhou, Z.**, et al.  
-*ICASSP 2026*, CORE B, Oral. [05/2026]
-
+*ICASSP 2026*, [[arXiv]](https://arxiv.org/abs/2601.13659), Oral.
 <span class="tag secondary">Second Author</span>
 <span class="tag">Oral Presentation</span>
 <span class="tag">Multimodal Learning</span>
