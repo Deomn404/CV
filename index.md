@@ -90,7 +90,7 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Shape-Aware Unsupervised Optical Flow via Multi-Scale Recurrent Refinement and Texture-Aware Loss**  
 **Zhou, Z.**, Huang, G., Cai, Z., et al.  
-*Pattern Recognition*
+Accepted by *Pattern Recognition*.
 
 <span class="tag primary">First Author</span>
 <span class="tag">IF:9.1</span>
@@ -104,7 +104,7 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Dual-Space Joint Representation Learning for Robust Multimodal Sentiment Analysis with Incomplete Modalities**  
 **Zhou, Z.**, Huang, G., Cai, Z., et al.  
-*IEEE International Conference on Systems, Man, and Cybernetics 2026*
+Accepted by *IEEE International Conference on Systems, Man, and Cybernetics 2026*
 
 <span class="tag primary">First Author</span>
 <span class="tag">Core B</span>
@@ -118,7 +118,7 @@ My recent work focuses on developing deep learning methods for visual perception
 
 **Spatiotemporal Decouple Before Act: Disentanglement Representation Learning for Multimodal Sentiment Analysis**  
 Meng, C., **Zhou, Z.**, et al.  
-*ICASSP 2026*, [[arXiv]](https://arxiv.org/abs/2601.13659), Oral.
+*IEEE International Conference on Acoustics, Speech, and Signal Processing 2026*, [[arXiv]](https://arxiv.org/abs/2601.13659), Oral.
 
 <span class="tag secondary">Second Author</span>
 <span class="tag">Oral Presentation</span>
@@ -131,7 +131,7 @@ Meng, C., **Zhou, Z.**, et al.
 
 **From Collaboration to Cognition: Mapping a Decade of Thematic Evolution**  
 Cai, Z., Zhang, D., **Zhou, Z.**, et al.  
-*CSCWD 2026*, CORE C, Book Chapter. [05/2026]
+*International Conference on Computer Supported Cooperative Work in Design 2026*, CORE C, Book Chapter. [05/2026]
 
 <span class="tag muted">Third Author</span>
 <span class="tag">Book Chapter</span>
