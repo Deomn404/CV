@@ -131,7 +131,7 @@ Meng, C., **Zhou, Z.**, et al.
 
 **From Collaboration to Cognition: Mapping a Decade of Thematic Evolution**  
 Cai, Z., Zhang, D., **Zhou, Z.**, et al.  
-*International Conference on Computer Supported Cooperative Work in Design 2026*, CORE C, Book Chapter. [05/2026]
+*International Conference on Computer Supported Cooperative Work in Design 2026*, CORE C, Book Chapter.
 
 <span class="tag muted">Third Author</span>
 <span class="tag">Book Chapter</span>
@@ -297,7 +297,7 @@ Invention Patent Application. Application No. **202510982167.0**. [06/2026]
 
 ## Summary
 
-- **5 publications**, including **2 first-author works**.
+- **4 publications**, including **2 first-author works**.
 - Research experience in **computer vision**, **medical AI**, **multimodal learning**, and **physics-model-driven deep learning**.
 - **1 invention patent application** related to medical AI.
 - **5 selected awards**, including national, international, and provincial honors.
